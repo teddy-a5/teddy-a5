@@ -1,12 +1,11 @@
-# Tewodros Anteneh
-
+### Hi, i am Tewodros Anteneh
 Backend developer and ECE student building scalable systems.
 
 
 ```
-backend_systems     // Django, FastAPI, Go, distributed architecture
+backend_systems     // Django, FastAPI, distributed architecture
 problem_solving     // Algorithms, data structures, efficient design
-continuous_learning // Low-level programming, system design, cloud-native, lua
+continuous_learning // Low-level programming, system design, cloud-native
 ```
 
 - Exploring distributed systems and cloud-native applications
