@@ -1,17 +1,20 @@
-### 👋 Hi, I'm **Tewodros Anteneh**
+# Tewodros Anteneh
 
-I'm a **Software Developer** from **Ethiopia**, passionate about building scalable, maintainable systems and solving real-world problems through code.
-
-💡 I love **mathematics**, **systems design**, and **backend development** — and I enjoy turning complex ideas into elegant, efficient software.
-
-🚀 About Me
-- 🧩 I’m currently exploring **distributed systems** and **cloud-native applications**.
-- 🌱 I love learning about **low-level programming** and **system design**.
-- 💬 Ask me about backend development, API design, or efficient problem-solving.
+Backend developer and ECE student building scalable systems.
 
 
- 🌐 Connect With Me
-- 🏠 Website: [showcase-website-pi.vercel.app](https://showcase-website-pi.vercel.app/)
-- 📫 Email: [tewodrosanteneh10@gmail.com](mailto:tewodrosanteneh10@gmail.com)
-- 💼 LinkedIn: [Tewodros Anteneh](https://www.linkedin.com/in/tewodros-anteneh-137304370/)
+```
+backend_systems     // Django, FastAPI, Go, distributed architecture
+problem_solving     // Algorithms, data structures, efficient design
+continuous_learning // Low-level programming, system design, cloud-native, lua
+```
 
+- Exploring distributed systems and cloud-native applications
+- Building with Python, Go, C++, Java
+- Designing clean, maintainable backend architectures
+
+**Email:** tewodrosanteneh10@gmail.com  
+**LinkedIn:** [linkedin.com/in/tewodros-anteneh-137304370](https://www.linkedin.com/in/tewodros-anteneh-137304370/)  
+**Portfolio:** [showcase-website-pi.vercel.app](https://showcase-website-pi.vercel.app/)
+
+---
