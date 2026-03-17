@@ -14,6 +14,6 @@ continuous_learning // Low-level programming, system design, cloud-native
 
 **Email:** tewodrosanteneh10@gmail.com  
 **LinkedIn:** [linkedin.com/in/tewodros-anteneh-137304370](https://www.linkedin.com/in/tewodros-anteneh-137304370/)  
-**Portfolio:** [interstellar0.netlify.app](interstellar0.netlify.app/)
+**Portfolio:** [interstellar0.netlify.app](https://interstellar0.netlify.app/)
 
 ---
